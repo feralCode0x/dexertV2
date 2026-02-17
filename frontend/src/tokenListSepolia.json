@@ -1,0 +1,51 @@
+[
+   {
+  "ticker": "ETH",
+  "img": "https://www.citypng.com/public/uploads/preview/ethereum-eth-round-logo-icon-png-701751694969815akblwl2552.png",
+  "name": "Ethereum",
+  "address": "0x0000000000000000000000000000000000000000",
+  "decimals": 18
+},
+    {
+        "ticker": "WETH",
+        "img": "https://cdn.moralis.io/eth/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+        "name": "Wrapped Ethereum",
+        "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
+        "decimals": 18
+    },
+    {
+        "ticker": "DAI",
+        "img": "https://cdn.moralis.io/eth/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+        "name": "Dai Stablecoin",
+        "address": "0x1AeFd7E66bD87e60106E504152660B55e200132d",
+        "decimals": 18
+    },
+    {
+        "ticker": "DXRT",
+        "img": "https://github.com/feralCode0x/dexert-app/blob/master/src/assets/iceLogo.png",
+        "name": "Dexert",
+        "address": "0x09c2f12B9E2B0d8622795739652f2970b62CC94e",
+        "decimals": 18
+    },
+    {
+        "ticker": "CLASS",
+        "img": "https://github.com/feralCode0x/classis/blob/master/src/assets/classicLogo.png",
+        "name": "Classis Token",
+        "address": "0xc1B1C9C6ca85D5f329e0FD21Ffa68f7BF8c9c42E",
+        "decimals": 18
+    },
+    {
+        "ticker": "LINK",
+        "img": "https://cdn.moralis.io/eth/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+        "name": "Chainlink",
+        "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+        "decimals": 18
+    },
+    {
+        "ticker": "STRB",
+        "img": "",
+        "name": "Strongbox",
+        "address": "0xB3949EeAAE58baF0C702EBc6a464ED710F30Af13",
+        "decimals": 18
+    }
+]
